@@ -3,10 +3,10 @@
 
 [Link to external website](https://github.com/16schmittm/1040)
 
-[Other .md file](Markdown Read.md)
+[Other .md file](Markdown_Read.md)
 
 
-![alt text](The_Rock.jpg "fdfh")
+![alt text](The_Rock.jpg "The Rock")
 
 ![alt text](https://www.wrestlezone.com/assets/uploads/2018/06/WWE2K19_Roster_Rey_Mysterio-copy.jpg)
 
