@@ -1,0 +1,11 @@
+/Users/MichaelSchmitt/Documents/1040/TextEditor/obj/Debug/netcoreapp2.1/TextEditor.csprojAssemblyReference.cache
+/Users/MichaelSchmitt/Documents/1040/TextEditor/obj/Debug/netcoreapp2.1/TextEditor.csproj.CoreCompileInputs.cache
+/Users/MichaelSchmitt/Documents/1040/TextEditor/obj/Debug/netcoreapp2.1/TextEditor.AssemblyInfoInputs.cache
+/Users/MichaelSchmitt/Documents/1040/TextEditor/obj/Debug/netcoreapp2.1/TextEditor.AssemblyInfo.cs
+/Users/MichaelSchmitt/Documents/1040/TextEditor/bin/Debug/netcoreapp2.1/TextEditor.deps.json
+/Users/MichaelSchmitt/Documents/1040/TextEditor/bin/Debug/netcoreapp2.1/TextEditor.runtimeconfig.json
+/Users/MichaelSchmitt/Documents/1040/TextEditor/bin/Debug/netcoreapp2.1/TextEditor.runtimeconfig.dev.json
+/Users/MichaelSchmitt/Documents/1040/TextEditor/bin/Debug/netcoreapp2.1/TextEditor.dll
+/Users/MichaelSchmitt/Documents/1040/TextEditor/bin/Debug/netcoreapp2.1/TextEditor.pdb
+/Users/MichaelSchmitt/Documents/1040/TextEditor/obj/Debug/netcoreapp2.1/TextEditor.dll
+/Users/MichaelSchmitt/Documents/1040/TextEditor/obj/Debug/netcoreapp2.1/TextEditor.pdb
